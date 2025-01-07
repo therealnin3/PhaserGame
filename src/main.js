@@ -4,7 +4,7 @@ const config = {
   height: 600,
   scene: {
     preload: function () {
-      this.load.image("sky", "assets/sky.jpeg");
+      this.load.image("sky", "src/assets/sky.jpeg");
     },
     create: function () {
       this.add.image(400, 300, "sky");
