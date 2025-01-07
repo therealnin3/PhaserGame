@@ -1,0 +1,25 @@
+# Node.js
+/node_modules/
+/npm-debug.log
+/package-lock.json
+
+# Environment files
+.env
+
+# Build output (if using build tools)
+/dist/
+/build/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store   # macOS
+Thumbs.db   # Windows
+
+# Logs
+*.log
+
+# Generated files
+*.sublime-workspace
